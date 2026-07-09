@@ -442,10 +442,6 @@ header .row {
   opacity: 0.5;
 }
 
-header {
-  position: relative;
-}
-
 .header__blob {
   position: absolute;
   left: 0;
