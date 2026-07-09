@@ -681,7 +681,6 @@ STEPS ↓
   display: flex;
   align-items: flex-start;
   margin-top: 32px;
-  width: 50%;
 }
 .steps__grid {
   position: absolute;
