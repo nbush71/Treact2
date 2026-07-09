@@ -458,7 +458,7 @@ header {
 
 .header__img--wrapper {
   width: calc(100% - 40%);
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .header__img {
