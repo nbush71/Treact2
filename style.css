@@ -410,6 +410,7 @@ header .row {
   bottom: 0;
   z-index: 1;
   transition: border-color 300ms;
+  background:transparent;
 }
 
 .header__email--input::placeholder {
