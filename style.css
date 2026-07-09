@@ -648,6 +648,10 @@ STEPS ↓
   padding-left: 64px;
 }
 
+.step_description {
+width: 100%;
+}
+
 .step__title {
   font-weight: bold;
   font-size: 20px;
