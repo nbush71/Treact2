@@ -730,7 +730,6 @@ VALUES ↓
 .values__list {
   margin-left: 0px;
   margin-right: 0px;
-  justify-content: center;
   display: flex;
   max-width: none;
   flex-direction: row;
@@ -763,6 +762,7 @@ VALUES ↓
   align-items: flex-start;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 .value:nth-last-of-type(1) {
   margin-top: 32px;
