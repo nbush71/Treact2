@@ -520,6 +520,7 @@ FEATURES ↓
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 40px;
+  width: 100%;
 }
 
 .feature__text {
