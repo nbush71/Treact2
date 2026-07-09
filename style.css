@@ -759,7 +759,6 @@ VALUES ↓
 .value {
   margin-top: 2rem;
   margin-right: 2rem;
-  justify-content: center;
   align-items: flex-start;
   display: flex;
   flex-direction: column;
