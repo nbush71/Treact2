@@ -377,7 +377,6 @@ header .row {
   display: flex;
   justify-content: flex-end;
   border-radius: 500px;
-  border: 2px solid rgb(229, 231, 235);
   margin-top: 24px;
 }
 
@@ -400,8 +399,9 @@ header .row {
 }
 
 .header__email--input {
-  width: 90%;
-  padding: 20px 192px 20px 30px;
+  width: 100%;
+  padding: 20px 192px 20px 32px;
+  border: 2px solid rgb(229, 231, 235);
   color: rgb(36, 62, 99);
   font-size: 16px;
   font-weight: 500;
