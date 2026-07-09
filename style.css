@@ -1024,16 +1024,16 @@ section #testimonials {
   justify-content: space-between;
 }
 .testimonials_img {
-  width: 100%;
+  width: 40%;
 }
 
 .testimonials__description, .section__para {
-  width: 80%;
+  width: 60%;
 }
 .testimonials__description {
   display: flex;
   flex-direction: column;
-  padding-left: 64px;
+  padding-left: 60px;
 }
 #testimonials .section__title {
   margin-bottom: 24px;
