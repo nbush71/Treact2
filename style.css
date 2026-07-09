@@ -746,7 +746,6 @@ VALUES ↓
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  height: 24px;
   border: transparent;
 }
 
@@ -1024,16 +1023,16 @@ section #testimonials {
   justify-content: space-between;
 }
 .testimonials_img {
-  width: 40%;
+  width: 100%;
 }
 
 .testimonials__description, .section__para {
-  width: 60%;
+  width: 80%;
 }
 .testimonials__description {
   display: flex;
   flex-direction: column;
-  padding-left: 60px;
+  padding-left: 64px;
 }
 #testimonials .section__title {
   margin-bottom: 24px;
