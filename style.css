@@ -730,6 +730,7 @@ VALUES ↓
 .values__list {
   margin-left: 0px;
   margin-right: 0px;
+  justify-content: center;
   display: flex;
   max-width: none;
   flex-direction: row;
