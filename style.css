@@ -1026,8 +1026,8 @@ section #testimonials {
   width: 100%;
 }
 
-.testimonials__description, .section__para {
-  width: 80%;
+.testimonials__description, .testimonial__img {
+  width: 40%;
 }
 .testimonials__description {
   display: flex;
