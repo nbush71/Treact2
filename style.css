@@ -1543,6 +1543,7 @@ MOBILE RESPONSIVENESS ↓
   .section__para {
     font-size: 14px;
   }
+  
   #quality .row,
   #values .row {
     flex-direction: column-reverse;
