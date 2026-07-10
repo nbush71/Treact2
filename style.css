@@ -1078,6 +1078,12 @@ section #testimonials {
 .testimonial__details {
   margin-left: 24px;
 }
+
+.testimonials__img--wrapper {
+  display: flex;
+  position: relative;
+}
+
 .testimonial__img {
   width: 80px;
   height: 80px;
