@@ -1028,8 +1028,8 @@ section #testimonials {
 .testimonials__description {
   display: flex;
   flex-direction: column;
-  padding-left: 64px;
-  width: 60%;
+  padding-left: 24%;
+  width: 70%;
 }
 #testimonials .section__title {
   margin-bottom: 24px;
@@ -1082,6 +1082,7 @@ section #testimonials {
   width: 80px;
   height: 80px;
   border-radius: 50%;
+  padding: 10px;
 }
 .testimonial__role {
   color: #7c8ba1;
