@@ -566,6 +566,9 @@ QUALITY WORK ↓
 
 */
 
+#quality .container {
+  padding: 48px 0;
+}
 
 #quality .row {
     display: flex;
