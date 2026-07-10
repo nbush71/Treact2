@@ -1014,7 +1014,11 @@ section #testimonials {
   align-items: center;
   justify-content: space-between;
 }
-.testimonials__img,
+
+.testimonials__img {
+  width: 40%;
+}
+
 .testimonials__description {
   width: 50%;
 }
