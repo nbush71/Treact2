@@ -1074,11 +1074,7 @@ section #testimonials {
 .testimonial__profile {
   display: flex;
   align-items: center;
-}
-
-.testimonials__img--wrapper {
-  display: flex;
-  position: relative;
+  justify-content: center;
 }
 
 .testimonial__img {
