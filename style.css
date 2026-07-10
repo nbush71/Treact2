@@ -1409,7 +1409,7 @@ MOBILE RESPONSIVENESS ↓
     padding-right: 2rem;
   }
   .testimonials__img {
-    width: 100%;
+    width: 40%;
   }
   .testimonials__description {
     width: calc(100% - 60%);
