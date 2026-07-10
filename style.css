@@ -1002,16 +1002,10 @@ section #testimonials {
   padding: 0px;
 }
 
-#testimonials .row {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-
-}
 #testimonials .container {
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
-
 
 #testimonials .row {
   margin-left: auto;
@@ -1022,11 +1016,9 @@ section #testimonials {
   align-items: center;
   justify-content: space-between;
 }
-.testimonials_img {
-  width: 100%;
-}
 
-.testimonials__description, .testimonial__img {
+.testimonials__description,
+.testimonial__img {
   width: 40%;
 }
 .testimonials__description {
