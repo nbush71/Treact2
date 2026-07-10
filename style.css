@@ -1075,9 +1075,6 @@ section #testimonials {
   display: flex;
   align-items: center;
 }
-.testimonial__details {
-  margin-left: 24px;
-}
 
 .testimonials__img--wrapper {
   display: flex;
