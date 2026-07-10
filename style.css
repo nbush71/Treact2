@@ -1029,7 +1029,7 @@ section #testimonials {
   display: flex;
   flex-direction: column;
   padding-left: 24%;
-  width: 70%;
+  width: 50%;
 }
 #testimonials .section__title {
   margin-bottom: 24px;
