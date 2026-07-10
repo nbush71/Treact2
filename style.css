@@ -738,7 +738,14 @@ VALUES ↓
 .value__img {
   width: 20px;
   height: 20px;
+  border-radius: 50%;
+  color: #243e63;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
 }
+
 .values__img--wrapper {
   display: flex;
   justify-content: center;
@@ -791,7 +798,6 @@ VALUES ↓
   font-weight: bold;
   color: #243e63;
  }
- 
 
  
 /*
