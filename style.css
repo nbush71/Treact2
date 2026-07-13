@@ -742,6 +742,13 @@ VALUES ↓
   width: 75%;
 }
 
+.value__img--svg {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .values__list {
   margin-left: 0px;
   margin-right: 0px;
@@ -771,7 +778,11 @@ VALUES ↓
   position: relative;
 }
 
-.round {
+.round__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
   width: 40px;
   height: 40px;
   border-radius: 50%;
