@@ -771,7 +771,7 @@ VALUES ↓
   position: relative;
 }
 
-#values .value__img--round {
+.round {
   width: 40px;
   height: 40px;
   border-radius: 50%;
