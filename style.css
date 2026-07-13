@@ -1576,7 +1576,7 @@ MOBILE RESPONSIVENESS ↓
   
   #quality .row,
   #values .row {
-    flex-direction: column-reverse;
+    flex-direction: column;
   }
   .quality__description,
   .steps__description,
@@ -1601,6 +1601,9 @@ MOBILE RESPONSIVENESS ↓
   #testimonials .row {
     flex-direction: column;
   }
+.steps__description {
+  margin: 10px 10px 10px 10px;
+}
 
   .step {
     flex-direction: column;
@@ -1662,15 +1665,20 @@ MOBILE RESPONSIVENESS ↓
   .header__email {
     flex-direction: column;
     height: auto;
+    width: auto;
+    align-items: center;
   }
   .header__email--input {
     position: static;
     padding: 16px 0;
-    padding-left: 32px;
+    padding-left: 20px;
     line-height: 1.5;
+    max-width: 400px;
+    padding: 16px 0;
+    align-self: flex-end;
   }
   .header__email--btn {
-    width: 100%;
+    width: 36%;
     padding: 16px 0;
     margin: 16px 0;
     margin-bottom: 0px;
@@ -1704,6 +1712,11 @@ MOBILE RESPONSIVENESS ↓
     margin-top: 4px;
     line-height: 2;
   }
+
+  .quality__img--wrapper {
+    gap: 40px;
+  }
+
   #steps .section__title {
     margin: 16px 0 0 0;
   }
@@ -1742,11 +1755,25 @@ MOBILE RESPONSIVENESS ↓
   .testimonial__buttons {
     margin-top: 32px;
   }
+
+  .value__img {
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+  }
+  .values__description {
+    width: 100%;
+  }
+
   .start__title {
     font-size: 24px;
   }
   .start__container {
     padding: 80px 0;
+  }
+
+  #values .row {
+    width: 400px;;
   }
   .start__buttons {
     flex-direction: column;
