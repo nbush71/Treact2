@@ -764,11 +764,11 @@ VALUES ↓
   justify-content: center;
 }
 
-.value:nth-child(1) .round--wrapper {
+.value:nth-child(1) .round__wrapper {
   background-color: #9ae6b4;
 }
 
-.value:nth-child(2) .round--wrapper {
+.value:nth-child(2) .round__wrapper {
   background-color: #feb2b2;
 }
 
@@ -784,6 +784,10 @@ VALUES ↓
   height: 40px;
   border-radius: 50%;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
 
 .value {
