@@ -731,7 +731,7 @@ VALUES ↓
 }
 
 .values__description {
-  padding: 32px, 64px, 32px, 0;
+  padding: 32px, 64px, 36px, 0;
 }
 
 .values__description,
@@ -750,12 +750,9 @@ VALUES ↓
 .values__img {
   width: 20px;
   height: 20px;
-  border-radius: 50%;
-  color: #243e63;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 22px;
 }
 
 .value:nth-child(1) .value__img--wrapper {
@@ -764,6 +761,14 @@ VALUES ↓
 
 .value:nth-child(2) .value__img--wrapper {
   background-color: #feb2b2;
+}
+
+.value__img--wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
 }
 
 .value {
