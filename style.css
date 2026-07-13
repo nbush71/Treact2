@@ -764,11 +764,11 @@ VALUES ↓
   justify-content: center;
 }
 
-.value:nth-child(1) .value__img--wrapper {
+.value:nth-child(1) .round--wrapper {
   background-color: #9ae6b4;
 }
 
-.value:nth-child(2) .value__img--wrapper {
+.value:nth-child(2) .round--wrapper {
   background-color: #feb2b2;
 }
 
