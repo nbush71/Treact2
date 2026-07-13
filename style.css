@@ -747,7 +747,7 @@ VALUES ↓
   flex-direction: row;
 }
 
-.values__img {
+.value__img {
   display: flex;
   align-items: center;
   justify-content: center;
