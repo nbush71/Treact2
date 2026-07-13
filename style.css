@@ -739,11 +739,12 @@ VALUES ↓
 }
 
 .value__img {
-  width: 75%;
+  width: 500px;
+  height: 500px;
+  margin: 40px;
 }
 
 .value__img--svg {
-  width: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -779,10 +780,6 @@ VALUES ↓
 }
 
 .round__wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
   width: 40px;
   height: 40px;
   border-radius: 50%;
