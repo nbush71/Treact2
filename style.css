@@ -734,7 +734,10 @@ VALUES ↓
   padding: 32px, 64px, 36px, 0;
 }
 
-.values__description,
+.values__description {
+  width: 80%;
+}
+
 .value__img {
   width: 50%;
 }
