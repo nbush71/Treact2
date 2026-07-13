@@ -735,7 +735,7 @@ VALUES ↓
 }
 
 .values__description,
-.values__img {
+.value__img {
   width: 50%;
 }
 
@@ -748,9 +748,7 @@ VALUES ↓
 }
 
 .values__img {
-  width: 20px;
-  height: 20px;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
@@ -767,8 +765,7 @@ VALUES ↓
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 36px;
-  height: 36px;
+  position: relative;
 }
 
 .value {
